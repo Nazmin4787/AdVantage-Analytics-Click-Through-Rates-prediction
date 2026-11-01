@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib>=3.4
+seaborn
+scipy
+statsmodels
+scikit-learn
+prettytable
+jupyter
