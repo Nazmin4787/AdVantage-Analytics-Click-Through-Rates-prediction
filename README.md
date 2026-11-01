@@ -128,12 +128,4 @@ Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, statsmodels, scikit-learn, Ju
 
 ## Author
 
-**Your Name** | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
-
-## Acknowledgements
-
-The business case and dataset come from a training case study. Add the source or course name here if you want to credit it.
-
-## License
-
-Add a license of your choice (for example, MIT).
+**Nazmin Ansari** | [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
